@@ -1,0 +1,40 @@
+.card-img-top
+{
+    width: 250px;
+    height: 250px;
+}
+
+.phrase
+{
+    font-size: 40px;
+    text-align: center;
+}
+.card 
+{
+    background-color: #e5e8e8;
+    margin-bottom: 7%;
+}
+.JL
+{
+    font-size: 20px;
+}
+#competence
+{
+    text-align: center;
+}
+.logo
+{
+    width: 150px;
+    height: 150px;
+}
+
+.hobbie
+{
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.card-img-top
+{
+    margin-bottom: 5%;
+}
